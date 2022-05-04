@@ -1,4 +1,4 @@
-# vue-edu
+# vue-music
 
 ## Project setup
 ```
